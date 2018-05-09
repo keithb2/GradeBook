@@ -11,7 +11,7 @@ namespace Grades.Test.Types
     class ReferenceTypeTests
     {
         [TestMethod]
-        public void VariablesHoldAReference()
+        public void VariablesHoldAReference();
 
 
     }
